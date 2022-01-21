@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9506DGG,512
+D PCA9506DGG,512
+F http://www.nxp.com/documents/data_sheet/PCA9505_9506.pdf
+$ENDCMP
+# end doc library

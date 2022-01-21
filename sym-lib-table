@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "NRF_dongle")(type "KiCad")(uri "${KIPRJMOD}/lib/NRF_dongle.kicad_sym")(options "")(descr ""))
+  (lib (name "PCA9596")(type "Legacy")(uri "${KIPRJMOD}/lib/PCA9506/PCA9596.lib")(options "")(descr ""))
+)
