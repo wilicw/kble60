@@ -2,4 +2,5 @@
   (lib (name "NRF_dongle")(type "KiCad")(uri "${KIPRJMOD}/lib/NRF_dongle.kicad_sym")(options "")(descr ""))
   (lib (name "PCA9596")(type "Legacy")(uri "${KIPRJMOD}/lib/PCA9506/PCA9596.lib")(options "")(descr ""))
   (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/lib/TP4056.kicad_sym")(options "")(descr ""))
+  (lib (name "FS312F")(type "KiCad")(uri "${KIPRJMOD}/lib/FS312F.kicad_sym")(options "")(descr ""))
 )
