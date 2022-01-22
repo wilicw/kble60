@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name "NRF_Dongle")(type "KiCad")(uri "${KIPRJMOD}/lib/NRF_Dongle.pretty")(options "")(descr ""))
 )
