@@ -4013,7 +4013,7 @@
     (property "Value" "Ext_pin" (id 1) (at 326.39 36.8299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical" (id 2) (at 325.12 34.29 0)
+    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Horizontal" (id 2) (at 325.12 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 325.12 34.29 0)
@@ -7053,7 +7053,7 @@
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
     )
     (path "/58e4e739-52d2-48d7-88dd-c2bdbef2a23e"
-      (reference "J2") (unit 1) (value "Ext_pin") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical")
+      (reference "J2") (unit 1) (value "Ext_pin") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Horizontal")
     )
     (path "/6ad476f6-8d94-4749-8190-59571119ea6b"
       (reference "J4") (unit 1) (value "Battery") (footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical")
